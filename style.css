@@ -1,0 +1,35 @@
+body {
+    background-color: #F7DCA3;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 800px;
+}
+
+h1 ,
+.descricao-imagem{
+    color: black;
+    background-color: beige;
+    text-align: center;
+}
+
+div {
+    width: 1600px;
+    margin: auto;
+    font-size: 24px;
+}
+
+button{
+    background-color: white;
+    border: none;
+    color: white;
+    padding: 5px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
